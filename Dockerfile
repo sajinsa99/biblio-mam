@@ -8,9 +8,9 @@ RUN apk update ; apk upgrade
 #RUN apk add --no-cache vim bash tree wget curl git git-lfs openssh-client openssl rsync dos2unix terraform perl ruby
 
 #install install minimal tools
-RUN apk add --no-cache bash vim dos2unix tree perl wget curl git
+RUN apk add --no-cache bash vim dos2unix tree perl wget curl git openssh
 # install prerequistes for perl cpan
-RUN apk add--no-cache  make gcc perl-utils 
+RUN apk add --no-cache  make gcc perl-utils 
 
 # install perl module(s)
 RUN export PERL_MM_USE_DEFAULT=1 ;cd / root ;  cpan -u ; cpan -i Text::Unaccent::PurePerl
