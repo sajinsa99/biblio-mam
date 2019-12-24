@@ -1,1 +1,1 @@
-docker build -f Dockerfile -t biblio-mamn .
+docker build -f Dockerfile -t biblio-mam .
