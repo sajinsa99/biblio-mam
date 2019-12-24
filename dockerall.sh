@@ -1,5 +1,8 @@
 set -e +x
 
+echo
+echo ==== START ====
+echo
 date
 
 echo docker build
@@ -10,6 +13,8 @@ echo docker run
 ./dockerrun.sh
 echo
 
+echo
+echo ==== STOP ====
 date
 echo
 
