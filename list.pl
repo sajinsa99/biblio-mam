@@ -1,15 +1,18 @@
-#!/usr/local/opt/coreutils/libexec/gnubin/env perl
-#
+#!/usr/bin/env perl -w
 
+use strict;
+use warnings;
+#use diagnostics;
 use Text::Unaccent::PurePerl qw(unac_string);
 
-
 my %livres;
+sub check_loans($);
 
 open ALL , "./all.txt" or die "ERROR : cannot open './all.txt':$!";
 my $titre = "";
 while (<ALL>) {
 	chomp;
+	next unless($_);
 	my $line = unac_string ("utf-8", $_);
 	next if($line =~ /^annee\:/i);
 	next if($line =~ /^Date de pret\:/i);
@@ -19,7 +22,9 @@ while (<ALL>) {
 		next;
 	}
 	next if($line =~ /Shimada/i);
+	next unless($line);
 	(my $title_raw) = $line =~ /^(.+?)\s+\//i;
+	next unless($title_raw);
 	($title_raw) =~ s-\s+\[.+?$--i;
 	($title_raw) =~ s-\s+\(.+?$--i;
 	($title_raw) =~ s-\s+\:.+?$--i;
@@ -39,7 +44,7 @@ system "date";
 print "\n";
 my $count = 1 ;
 foreach my $titre (sort keys %livres) {
-	next if ($livres{titre} == 1);
+	#next if ($livres{$titre} == 1);
 	my $pret = check_loans($titre);
 	if(defined $pret) {
 		print "$count) $titre --- $livres{$titre} --- $pret\n";
@@ -60,7 +65,7 @@ sub check_loans($) {
 	while(<LOANS>) {
 		chomp ;
 		my $line = unac_string("utf-8", $_);
-		$line_lc = lc $line;
+		my $line_lc = lc $line;
 		$line_lc = ucfirst $line_lc;
 		next if($line_lc =~ /^Localisation de pret\:/i);
 		next if($line_lc =~ /^Date de pret\:/i);

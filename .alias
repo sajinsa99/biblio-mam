@@ -1,0 +1,16 @@
+shopt -s expand_aliases
+
+alias ls='ls --color=auto -hF'                                                                                                                                
+alias ll='ls -l'
+alias la='ll -a'
+alias lat='ll -at'
+alias latr='lat -r'
+alias lt='ll -t'
+alias ltr='lt -r'
+alias lss='ll -S'
+alias lssr='lss -r'
+alias lssa='lss -a'
+alias lssar='lssa -r'
+alias grep='grep --color=auto'
+#alias which='alias | /usr/bin/which  --show-dot --show-tilde'
+
