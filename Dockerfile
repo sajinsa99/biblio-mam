@@ -32,5 +32,9 @@ RUN unalias -a ;\
 	chmod 700 /root/.vimrc ;\
     chmod 700 /root/.bashrc
 
-ENTRYPOINT ["/bin/bash"]
+# execute perl script
+ADD update-list.sh /root/update-list.sh
+RUN chmod 700 /root/update-list.sh
+
+ENTRYPOINT ["/root/update-list.sh"]
 WORKDIR /root
