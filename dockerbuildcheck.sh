@@ -9,7 +9,7 @@ echo docker build
 ./dockerbuild.sh 
 echo
 
-echo docker run
+echo docker run bash
 ./dockerrunbash.sh
 echo
 
