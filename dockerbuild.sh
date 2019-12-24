@@ -1,3 +1,4 @@
+echo
 ./clean-docker-none.sh
 
 echo
