@@ -32,6 +32,9 @@ RUN unalias -a ;\
 	chmod 700 /root/.vimrc ;\
     chmod 700 /root/.bashrc
 
+# set CET timezone
+RUN apk add --no-cache tzdata ;  cp -vf /usr/share/zoneinfo/CET /etc/localtime ; echo CET >  /etc/timezone ; date ; apk del tzdata
+
 # execute perl script
 ADD update-list.sh /root/update-list.sh
 RUN chmod 700 /root/update-list.sh
