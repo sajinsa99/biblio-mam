@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo
+date
+echo
+
 set -e +x
 
 cd /root/
@@ -10,7 +14,7 @@ cd /biblio-mam/
 git pull ; git status
 echo
 
-perl -w list.pl > results.txt
+perl -w list.pl > results.txt 2>&1
 cat results.txt
 echo
 git status
