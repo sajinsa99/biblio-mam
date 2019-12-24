@@ -21,6 +21,7 @@ git status
 echo
 
 current_date=`date`
+echo git commit -am $current_date
 git commit -am "$current_date"
 echo
 git push
