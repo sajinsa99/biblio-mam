@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="bruno.fablet@sap.com"
+LABEL maintainer="bfablet@gmail.com"
 
 RUN apk update ; apk upgrade
 
