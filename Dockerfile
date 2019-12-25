@@ -7,10 +7,14 @@ RUN apk update ; apk upgrade
 # install some tools
 #RUN apk add --no-cache vim bash tree wget curl git git-lfs openssh-client openssl rsync dos2unix terraform perl ruby
 
+# set CET timezone
+RUN apk add --no-cache tzdata ; cp -vf /usr/share/zoneinfo/CET /etc/localtime ; echo CET > /etc/timezone ; date ; apk del tzdata
+
 #install install minimal tools
 RUN apk add --no-cache bash vim dos2unix tree perl wget curl git openssh
+
 # install prerequistes for perl cpan
-RUN apk add --no-cache  make gcc perl-utils
+RUN apk add --no-cache make gcc perl-utils
 
 # install perl module(s)
 RUN export PERL_MM_USE_DEFAULT=1 ; cd / root ;  cpan -u ; cpan -i Text::Unaccent::PurePerl
@@ -25,15 +29,12 @@ ADD .promptrc /root/
 ADD .vimrc /root/
 
 RUN unalias -a ;\
-    echo ". .alias"     >> /root/.bashrc ;\
-    echo ". .promptrc"  >> /root/.bashrc ;\
-    chmod 700 /root/.alias ;\
+    echo ". .alias"    >> /root/.bashrc ;\
+    echo ". .promptrc" >> /root/.bashrc ;\
+    chmod 700 /root/.alias    ;\
     chmod 700 /root/.promptrc ;\
-	chmod 700 /root/.vimrc ;\
+    chmod 700 /root/.vimrc    ;\
     chmod 700 /root/.bashrc
-
-# set CET timezone
-RUN apk add --no-cache tzdata ;  cp -vf /usr/share/zoneinfo/CET /etc/localtime ; echo CET >  /etc/timezone ; date ; apk del tzdata
 
 # execute perl script
 ADD update-list.sh /root/update-list.sh
