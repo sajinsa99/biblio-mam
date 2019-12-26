@@ -1,5 +1,5 @@
 
-Tue Dec 24 22:18:07 CET 2019
+Thu Dec 26 21:17:53 CET 2019
 
 1) A cote de la plaque --- Marc Behm
 2) Anges brises de somerstown --- Graham Hurley
@@ -19,40 +19,43 @@ Tue Dec 24 22:18:07 CET 2019
 16) Ete tous les chats s'ennuient --- Philippe Georget
 17) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
 18) Fibre meurtriere --- Kylie Fitzpatrick
-19) Indigo blues --- Robert Crais
-20) Interrogatoire --- Yoshichi Shimada
-21) Je te vois --- Teresa Driscoll
-22) L'ete de nos morts --- Lisa Jackson --- jan 17, 2020
-23) La fille dans le retroviseur --- James Mallahan Cain
-24) La nuit des bras casses --- Maurice Gouiran
-25) La vallee du saphir --- Jean Ely Chab
-26) La ville des couteaux --- William Bayer
-27) Le detective de freud --- Olivier Barde-Cabucon
-28) Le faucon va mourir --- Harry Crews
-29) Le soleil qui s'eteint --- Robin Cook
-30) Le sourire du diable --- Antonia Hodgson
-31) Le vampire de la rue des pistoles --- Jean Contrucci
-32) Le visage de l'ennemi --- A-J Finn
-33) Les apparences --- Gillian Flynn
-34) Ma soeur, serial killeuse --- 1
-35) Messe noire --- Olivier Barde-Cabucon
-36) Meurtre au ritz --- Michele Barriere
-37) On ne meurt pas la bouche pleine --- Odile Bouhier
-38) Orphelins de sang --- Patrick Bard
-39) Pages du serpent --- Jessica Cornwell
-40) Quatre racines blanches --- Jacques Saussey
-41) Quatre romans noirs --- Tonino Benacquista
-42) Reflets de sang --- Brigitte Aubert
-43) Rien ne se perd --- Cloe Mehdi
-44) Serail killers --- Lakhdar Belaid
-45) Signe suspect --- Patricia Cornwell
-46) Suspect --- Robert Crais
-47) Sympathy for the devil --- Kent Anderson
-48) Tailleur de pierre --- Camilla Lackberg
-49) Toutes les vagues de l'ocean --- Victor del Arbol
-50) Tristesse du samourai --- Victor del Arbol
-51) Une femme entre nous --- Greer Hendricks
-52) Une victime ideale --- Val McDermid
-53) Vent de glace --- Patricia Cornwell
-54) Vivants --- Isaac Marion --- jan 17, 2020
+19) Hors cadre --- Stefan Ahnhem --- jan 23, 2020
+20) Indigo blues --- Robert Crais
+21) Interrogatoire --- Yoshichi Shimada
+22) Je te vois --- Teresa Driscoll
+23) L'ete de nos morts --- Lisa Jackson --- jan 17, 2020
+24) La fille dans le retroviseur --- James Mallahan Cain
+25) La nuit des bras casses --- Maurice Gouiran
+26) La vallee du saphir --- Jean Ely Chab
+27) La ville des couteaux --- William Bayer
+28) Le detective de freud --- Olivier Barde-Cabucon
+29) Le faucon va mourir --- Harry Crews
+30) Le soleil qui s'eteint --- Robin Cook
+31) Le sourire du diable --- Antonia Hodgson
+32) Le vampire de la rue des pistoles --- Jean Contrucci
+33) Le visage de l'ennemi --- A-J Finn
+34) Les apparences --- Gillian Flynn
+35) Ma soeur, serial killeuse --- 1
+36) Manhattan freud --- Luc Bossi --- jan 23, 2020
+37) Messe noire --- Olivier Barde-Cabucon
+38) Meurtre au ritz --- Michele Barriere
+39) On ne meurt pas la bouche pleine --- Odile Bouhier
+40) Orphelins de sang --- Patrick Bard
+41) Pages du serpent --- Jessica Cornwell
+42) Plateau --- Franck Bouysse --- jan 23, 2020
+43) Quatre racines blanches --- Jacques Saussey
+44) Quatre romans noirs --- Tonino Benacquista
+45) Reflets de sang --- Brigitte Aubert
+46) Rien ne se perd --- Cloe Mehdi
+47) Serail killers --- Lakhdar Belaid
+48) Signe suspect --- Patricia Cornwell
+49) Suspect --- Robert Crais
+50) Sympathy for the devil --- Kent Anderson
+51) Tailleur de pierre --- Camilla Lackberg
+52) Toutes les vagues de l'ocean --- Victor del Arbol
+53) Tristesse du samourai --- Victor del Arbol
+54) Une femme entre nous --- Greer Hendricks
+55) Une victime ideale --- Val McDermid
+56) Vent de glace --- Patricia Cornwell
+57) Vivants --- Isaac Marion --- jan 17, 2020
 

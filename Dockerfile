@@ -17,7 +17,11 @@ RUN apk add --no-cache bash vim dos2unix tree perl wget curl git openssh
 RUN apk add --no-cache make gcc perl-utils
 
 # install perl module(s)
-RUN export PERL_MM_USE_DEFAULT=1 ; cd / root ;  cpan -u ; cpan -i Text::Unaccent::PurePerl
+RUN export PERL_MM_USE_DEFAULT=1 ; cd /root ;  cpan -u
+#RUN cpan -i Text::Unaccent::PurePerl
+RUN export PERL_MM_USE_DEFAULT=1 ; cd /root ; perl -MCPAN -e "CPAN::Shell->notest('install', 'Text::Unaccent::PurePerl')"
+
+#RUN cpan -i Mail::Webmail::Gmail
 
 # clean install
 RUN cd /root ; rm -rf .cpan ; cd /tmp ; rm -rf * ; 
