@@ -1,5 +1,5 @@
 
-Sat Jan  4 01:44:26 CET 2020
+Thu Jan 16 21:58:19 CET 2020
 
 1) A cote de la plaque --- Marc Behm
 2) Anges brises de somerstown --- Graham Hurley
@@ -13,49 +13,54 @@ Sat Jan  4 01:44:26 CET 2020
 10) Chiens de la nuit --- Lilian Jackson Braun
 11) Comme les lions --- Brian Panowich
 12) Disparue de guingamp --- Yann Venner
-13) Enquete dans le brouillard --- Elizabeth George
-14) Epouse inconnue --- Yoshichi Shimada
-15) Equation du chat --- Christine Adamo
-16) Ete tous les chats s'ennuient --- Philippe Georget
-17) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
-18) Fibre meurtriere --- Kylie Fitzpatrick
-19) Hors cadre --- Stefan Ahnhem --- jan 23, 2020
-20) Indigo blues --- Robert Crais
-21) Interrogatoire --- Yoshichi Shimada
-22) Je te vois --- Teresa Driscoll
-23) L'ete de nos morts --- Lisa Jackson --- jan 17, 2020
-24) La fille dans le retroviseur --- James Mallahan Cain
-25) La nuit des bras casses --- Maurice Gouiran
-26) La vallee du saphir --- Jean Ely Chab
-27) La ville des couteaux --- William Bayer
-28) Le detective de freud --- Olivier Barde-Cabucon
-29) Le faucon va mourir --- Harry Crews
-30) Le soleil qui s'eteint --- Robin Cook
-31) Le sourire du diable --- Antonia Hodgson
-32) Le vampire de la rue des pistoles --- Jean Contrucci
-33) Le visage de l'ennemi --- A-J Finn
-34) Les apparences --- Gillian Flynn
-35) Ma soeur, serial killeuse --- 1
-36) Manhattan freud --- Luc Bossi --- jan 23, 2020
-37) Messe noire --- Olivier Barde-Cabucon
-38) Meurtre au ritz --- Michele Barriere
-39) On ne meurt pas la bouche pleine --- Odile Bouhier
-40) Orphelins de sang --- Patrick Bard
-41) Pages du serpent --- Jessica Cornwell
-42) Plateau --- Franck Bouysse --- jan 23, 2020
-43) Quatre racines blanches --- Jacques Saussey
-44) Quatre romans noirs --- Tonino Benacquista
-45) Reflets de sang --- Brigitte Aubert
-46) Rien ne se perd --- Cloe Mehdi
-47) Serail killers --- Lakhdar Belaid
-48) Signe suspect --- Patricia Cornwell
-49) Suspect --- Robert Crais
-50) Sympathy for the devil --- Kent Anderson
-51) Tailleur de pierre --- Camilla Lackberg
-52) Toutes les vagues de l'ocean --- Victor del Arbol
-53) Tristesse du samourai --- Victor del Arbol
-54) Une femme entre nous --- Greer Hendricks
-55) Une victime ideale --- Val McDermid
-56) Vent de glace --- Patricia Cornwell
-57) Vivants --- Isaac Marion
+13) Ecorces vives --- Alexandre Lenot --- jan 31, 2020
+14) Enquete dans le brouillard --- Elizabeth George
+15) Epouse inconnue --- Yoshichi Shimada
+16) Equation du chat --- Christine Adamo
+17) Ete tous les chats s'ennuient --- Philippe Georget
+18) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
+19) Fibre meurtriere --- Kylie Fitzpatrick
+20) Hors cadre --- Stefan Ahnhem
+21) Indigo blues --- Robert Crais
+22) Interrogatoire --- Yoshichi Shimada
+23) J'ai encore menti ! --- Gilles Legardinier --- feb 7, 2020
+24) Je te vois --- Teresa Driscoll
+25) L'ete de nos morts --- Lisa Jackson
+26) La fille dans le retroviseur --- James Mallahan Cain
+27) La nuit des bras casses --- Maurice Gouiran
+28) La vallee du saphir --- Jean Ely Chab
+29) La ville des couteaux --- William Bayer
+30) Le detective de freud --- Olivier Barde-Cabucon
+31) Le faucon va mourir --- Harry Crews
+32) Le soleil qui s'eteint --- Robin Cook
+33) Le sourire du diable --- Antonia Hodgson
+34) Le vampire de la rue des pistoles --- Jean Contrucci
+35) Le visage de l'ennemi --- A-J Finn
+36) Les apparences --- Gillian Flynn
+37) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1 --- feb 7, 2020
+38) Ma soeur, serial killeuse --- 1
+39) Manhattan freud --- Luc Bossi --- feb 6, 2020
+40) Messe noire --- Olivier Barde-Cabucon
+41) Meurtre au ritz --- Michele Barriere
+42) Ombre douce --- 1 --- feb 7, 2020
+43) On ne meurt pas la bouche pleine --- Odile Bouhier
+44) Orphelins de sang --- Patrick Bard
+45) Pages du serpent --- Jessica Cornwell
+46) Plateau --- Franck Bouysse --- feb 6, 2020
+47) Quatre racines blanches --- Jacques Saussey
+48) Quatre romans noirs --- Tonino Benacquista
+49) Reflets de sang --- Brigitte Aubert
+50) Rien ne se perd --- Cloe Mehdi
+51) Serail killers --- Lakhdar Belaid
+52) Signe suspect --- Patricia Cornwell
+53) Suspect --- Robert Crais
+54) Sympathy for the devil --- Kent Anderson
+55) Tailleur de pierre --- Camilla Lackberg
+56) Tendre comme les pierres --- Philippe Georget
+57) Toutes les vagues de l'ocean --- Victor del Arbol
+58) Tristesse du samourai --- Victor del Arbol
+59) Une femme entre nous --- Greer Hendricks
+60) Une victime ideale --- Val McDermid
+61) Vent de glace --- Patricia Cornwell
+62) Vivants --- Isaac Marion
 

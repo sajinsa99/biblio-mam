@@ -1,7 +1,9 @@
+#!/usr/local/bin/bash
+
 set -e +x
 
 echo
-echo ==== START ====
+echo "==== START ===="
 echo
 date
 
@@ -14,7 +16,7 @@ echo docker run bash
 echo
 
 echo
-echo ==== STOP ====
+echo "==== STOP ===="
 date
 echo
 

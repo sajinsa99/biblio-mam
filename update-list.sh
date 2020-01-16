@@ -7,7 +7,7 @@ echo
 set -e +x
 
 cd /root/
-. .bashrc
+source .bashrc
 
 cd /biblio-mam/
 
@@ -20,8 +20,8 @@ echo
 git status
 echo
 
-current_date=`date`
-echo git commit -am $current_date
+current_date=$(date)
+echo "git commit -am $current_date"
 git commit -am "$current_date"
 echo
 git push
