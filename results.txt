@@ -1,5 +1,5 @@
 
-Thu Jan 16 21:58:19 CET 2020
+Sat Feb  1 17:27:18 CET 2020
 
 1) A cote de la plaque --- Marc Behm
 2) Anges brises de somerstown --- Graham Hurley
@@ -20,47 +20,50 @@ Thu Jan 16 21:58:19 CET 2020
 17) Ete tous les chats s'ennuient --- Philippe Georget
 18) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
 19) Fibre meurtriere --- Kylie Fitzpatrick
-20) Hors cadre --- Stefan Ahnhem
-21) Indigo blues --- Robert Crais
-22) Interrogatoire --- Yoshichi Shimada
-23) J'ai encore menti ! --- Gilles Legardinier --- feb 7, 2020
-24) Je te vois --- Teresa Driscoll
-25) L'ete de nos morts --- Lisa Jackson
-26) La fille dans le retroviseur --- James Mallahan Cain
-27) La nuit des bras casses --- Maurice Gouiran
-28) La vallee du saphir --- Jean Ely Chab
-29) La ville des couteaux --- William Bayer
-30) Le detective de freud --- Olivier Barde-Cabucon
-31) Le faucon va mourir --- Harry Crews
-32) Le soleil qui s'eteint --- Robin Cook
-33) Le sourire du diable --- Antonia Hodgson
-34) Le vampire de la rue des pistoles --- Jean Contrucci
-35) Le visage de l'ennemi --- A-J Finn
-36) Les apparences --- Gillian Flynn
-37) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1 --- feb 7, 2020
-38) Ma soeur, serial killeuse --- 1
-39) Manhattan freud --- Luc Bossi --- feb 6, 2020
-40) Messe noire --- Olivier Barde-Cabucon
-41) Meurtre au ritz --- Michele Barriere
-42) Ombre douce --- 1 --- feb 7, 2020
-43) On ne meurt pas la bouche pleine --- Odile Bouhier
-44) Orphelins de sang --- Patrick Bard
-45) Pages du serpent --- Jessica Cornwell
-46) Plateau --- Franck Bouysse --- feb 6, 2020
-47) Quatre racines blanches --- Jacques Saussey
-48) Quatre romans noirs --- Tonino Benacquista
-49) Reflets de sang --- Brigitte Aubert
-50) Rien ne se perd --- Cloe Mehdi
-51) Serail killers --- Lakhdar Belaid
-52) Signe suspect --- Patricia Cornwell
-53) Suspect --- Robert Crais
-54) Sympathy for the devil --- Kent Anderson
-55) Tailleur de pierre --- Camilla Lackberg
-56) Tendre comme les pierres --- Philippe Georget
-57) Toutes les vagues de l'ocean --- Victor del Arbol
-58) Tristesse du samourai --- Victor del Arbol
-59) Une femme entre nous --- Greer Hendricks
-60) Une victime ideale --- Val McDermid
-61) Vent de glace --- Patricia Cornwell
-62) Vivants --- Isaac Marion
+20) Helena --- Jeremy Fel
+21) Hors cadre --- Stefan Ahnhem
+22) Indigo blues --- Robert Crais
+23) Interrogatoire --- Yoshichi Shimada
+24) J'ai encore menti ! --- Gilles Legardinier --- feb 7, 2020
+25) Je te vois --- Teresa Driscoll
+26) L'ete de nos morts --- Lisa Jackson
+27) La fille dans le retroviseur --- James Mallahan Cain
+28) La nuit des bras casses --- Maurice Gouiran
+29) La priere du maure --- 1
+30) La vallee du saphir --- Jean Ely Chab
+31) La ville des couteaux --- William Bayer
+32) Le detective de freud --- Olivier Barde-Cabucon
+33) Le faucon va mourir --- Harry Crews
+34) Le soleil qui s'eteint --- Robin Cook
+35) Le sourire du diable --- Antonia Hodgson
+36) Le vampire de la rue des pistoles --- Jean Contrucci
+37) Le visage de l'ennemi --- A-J Finn
+38) Les apparences --- Gillian Flynn
+39) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1 --- feb 7, 2020
+40) Ma soeur, serial killeuse --- 1
+41) Manhattan freud --- Luc Bossi --- feb 6, 2020
+42) Messe noire --- Olivier Barde-Cabucon
+43) Meurtre au ritz --- Michele Barriere
+44) Ombre douce --- 1 --- feb 7, 2020
+45) On ne meurt pas la bouche pleine --- Odile Bouhier
+46) Orphelins de sang --- Patrick Bard
+47) Pages du serpent --- Jessica Cornwell
+48) Plateau --- Franck Bouysse --- feb 6, 2020
+49) Quatre garcons dans la nuit --- Val McDermid
+50) Quatre racines blanches --- Jacques Saussey
+51) Quatre romans noirs --- Tonino Benacquista
+52) Reflets de sang --- Brigitte Aubert
+53) Rien ne se perd --- Cloe Mehdi
+54) Serail killers --- Lakhdar Belaid
+55) Signe suspect --- Patricia Cornwell
+56) Suspect --- Robert Crais
+57) Sympathy for the devil --- Kent Anderson
+58) Tailleur de pierre --- Camilla Lackberg
+59) Tendre comme les pierres --- Philippe Georget
+60) Toutes les vagues de l'ocean --- Victor del Arbol
+61) Tristesse du samourai --- Victor del Arbol
+62) Une femme entre nous --- Greer Hendricks
+63) Une victime ideale --- Val McDermid
+64) Vent de glace --- Patricia Cornwell
+65) Vivants --- Isaac Marion
 
