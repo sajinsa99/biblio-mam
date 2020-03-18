@@ -1,5 +1,5 @@
 
-Fri Feb 21 13:12:19 CET 2020
+Wed Mar 18 21:59:13 CET 2020
 
 1) A cote de la plaque --- Marc Behm
 2) Anges brises de somerstown --- Graham Hurley
@@ -11,63 +11,69 @@ Fri Feb 21 13:12:19 CET 2020
 8) Chat qui connaissait un cardinal --- Lilian Jackson Braun
 9) Chat qui deplacait des montagnes --- Lilian Jackson Braun
 10) Chiens de la nuit --- Lilian Jackson Braun
-11) Comme les lions --- Brian Panowich
-12) Dans la brume electrique avec les morts confederes --- James Lee Burke
-13) Disparue de guingamp --- Yann Venner
-14) Ecorces vives --- Alexandre Lenot
-15) Enquete dans le brouillard --- Elizabeth George
-16) Epouse inconnue --- Yoshichi Shimada
-17) Equation du chat --- Christine Adamo
-18) Ete tous les chats s'ennuient --- Philippe Georget
-19) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
-20) Fibre meurtriere --- Kylie Fitzpatrick
-21) Helena --- Jeremy Fel
-22) Hors cadre --- Stefan Ahnhem
-23) Indigo blues --- Robert Crais
-24) Interrogatoire --- Yoshichi Shimada
-25) J'ai encore menti ! --- Gilles Legardinier
-26) Je te vois --- Teresa Driscoll
-27) L'ete de nos morts --- Lisa Jackson
-28) La fille dans le retroviseur --- James Mallahan Cain
-29) La nuit des bras casses --- Maurice Gouiran
-30) La priere du maure --- 1
-31) La vallee du saphir --- Jean Ely Chab
-32) La ville des couteaux --- William Bayer
-33) Le detective de freud --- Olivier Barde-Cabucon
-34) Le faucon va mourir --- Harry Crews
-35) Le soleil qui s'eteint --- Robin Cook
-36) Le sourire du diable --- Antonia Hodgson
-37) Le vampire de la rue des pistoles --- Jean Contrucci
-38) Le visage de l'ennemi --- A-J Finn
-39) Les apparences --- Gillian Flynn
-40) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1
-41) Ma soeur, serial killeuse --- 1
-42) Manhattan freud --- Luc Bossi
-43) Messe noire --- Olivier Barde-Cabucon
-44) Meurtre au ritz --- Michele Barriere
-45) Nickel chrome --- Herve Claude --- mar 6, 2020
-46) Ombre douce --- 1
-47) On ne meurt pas la bouche pleine --- Odile Bouhier
-48) Orphelins de sang --- Patrick Bard
-49) Pages du serpent --- Jessica Cornwell
-50) Paris blues --- Maurice Attia --- mar 6, 2020
-51) Plateau --- Franck Bouysse
-52) Quatre garcons dans la nuit --- Val McDermid
-53) Quatre racines blanches --- Jacques Saussey
-54) Quatre romans noirs --- Tonino Benacquista
-55) Reflets de sang --- Brigitte Aubert
-56) Rien ne se perd --- Cloe Mehdi
-57) Serail killers --- Lakhdar Belaid
-58) Signe suspect --- Patricia Cornwell
-59) Suspect --- Robert Crais
-60) Sympathy for the devil --- Kent Anderson
-61) Tailleur de pierre --- Camilla Lackberg
-62) Tendre comme les pierres --- Philippe Georget
-63) Toutes les vagues de l'ocean --- Victor del Arbol
-64) Tristesse du samourai --- Victor del Arbol
-65) Une femme entre nous --- Greer Hendricks
-66) Une victime ideale --- Val McDermid
-67) Vent de glace --- Patricia Cornwell
-68) Vent froid --- C. J. Box
-69) Vivants --- Isaac Marion
+11) Code 93 --- 1
+12) Comme les lions --- Brian Panowich
+13) Dans la brume electrique avec les morts confederes --- James Lee Burke
+14) Disparue de guingamp --- Yann Venner
+15) Ecorces vives --- Alexandre Lenot
+16) Enquete dans le brouillard --- Elizabeth George
+17) Epouse inconnue --- Yoshichi Shimada
+18) Equation du chat --- Christine Adamo
+19) Ete tous les chats s'ennuient --- Philippe Georget
+20) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
+21) Feu de glace --- Nicci French
+22) Fibre meurtriere --- Kylie Fitzpatrick
+23) Helena --- Jeremy Fel
+24) Hors cadre --- Stefan Ahnhem
+25) Indigo blues --- Robert Crais
+26) Interrogatoire --- Yoshichi Shimada
+27) J'ai encore menti ! --- Gilles Legardinier
+28) Je te vois --- Teresa Driscoll
+29) L'ete de nos morts --- Lisa Jackson
+30) La fille dans le retroviseur --- James Mallahan Cain
+31) La nuit des bras casses --- Maurice Gouiran
+32) La priere du maure --- 1
+33) La vallee du saphir --- Jean Ely Chab
+34) La ville des couteaux --- William Bayer
+35) Lazare --- Lars Kepler
+36) Le detective de freud --- Olivier Barde-Cabucon
+37) Le faucon va mourir --- Harry Crews
+38) Le labyrinthe aux olives --- Martha Grimes --- apr 21, 2020
+39) Le soleil qui s'eteint --- Robin Cook
+40) Le sourire du diable --- Antonia Hodgson
+41) Le vampire de la rue des pistoles --- Jean Contrucci
+42) Le visage de l'ennemi --- A-J Finn
+43) Les apparences --- Gillian Flynn
+44) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1
+45) Ma soeur, serial killeuse --- 1
+46) Manhattan freud --- Luc Bossi
+47) Messe noire --- Olivier Barde-Cabucon
+48) Meurtre au ritz --- Michele Barriere
+49) Muraille de lave --- Arnaldur Indridason --- apr 21, 2020
+50) Nickel chrome --- Herve Claude
+51) Ombre douce --- 1
+52) On ne meurt pas la bouche pleine --- Odile Bouhier
+53) Orphelins de sang --- Patrick Bard
+54) Pages du serpent --- Jessica Cornwell
+55) Paris blues --- Maurice Attia
+56) Plateau --- Franck Bouysse
+57) Quatre garcons dans la nuit --- Val McDermid
+58) Quatre racines blanches --- Jacques Saussey
+59) Quatre romans noirs --- Tonino Benacquista
+60) Reflets de sang --- Brigitte Aubert
+61) Rien ne se perd --- Cloe Mehdi
+62) Serail killers --- Lakhdar Belaid
+63) Signe suspect --- Patricia Cornwell
+64) Suspect --- Robert Crais
+65) Sympathy for the devil --- Kent Anderson
+66) Tailleur de pierre --- Camilla Lackberg
+67) Tendre comme les pierres --- Philippe Georget
+68) Toutes les vagues de l'ocean --- Victor del Arbol
+69) Tristesse du samourai --- Victor del Arbol
+70) Un monde ideal --- Sylvie Granotier --- apr 21, 2020
+71) Une femme entre nous --- Greer Hendricks
+72) Une victime ideale --- Val McDermid
+73) Vent de glace --- Patricia Cornwell
+74) Vent froid --- C. J. Box
+75) Vivants --- Isaac Marion
 
