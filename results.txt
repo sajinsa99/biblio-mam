@@ -1,79 +1,87 @@
 
-Fri Jun 12 13:28:58 CEST 2020
+Thu Oct  1 03:53:16 CEST 2020
 
 1) A cote de la plaque --- Marc Behm
 2) Anges brises de somerstown --- Graham Hurley
 3) Angle mort --- Ingrid Astier
 4) Attrapeur de libellules --- Boris Akunin
-5) Bois-brule --- Yoshichi Shimada
-6) Bon anniversaire gabriel ! --- Luiz Alfredo Garcia-Roza
-7) Bretzel blues --- Rita Falk
-8) Chat qui connaissait un cardinal --- Lilian Jackson Braun
-9) Chat qui deplacait des montagnes --- Lilian Jackson Braun
-10) Chiens de la nuit --- Lilian Jackson Braun
-11) Code 93 --- 1
-12) Comme les lions --- Brian Panowich
-13) Dans la brume electrique avec les morts confederes --- James Lee Burke
-14) Disparue de guingamp --- Yann Venner
-15) Ecorces vives --- Alexandre Lenot
-16) Enquete dans le brouillard --- Elizabeth George
-17) Epouse inconnue --- Yoshichi Shimada
-18) Equation du chat --- Christine Adamo
-19) Ete tous les chats s'ennuient --- Philippe Georget
-20) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
-21) Feu de glace --- Nicci French
-22) Fibre meurtriere --- Kylie Fitzpatrick
-23) Helena --- Jeremy Fel
-24) Hors cadre --- Stefan Ahnhem
-25) Indigo blues --- Robert Crais
-26) Interrogatoire --- Yoshichi Shimada
-27) J'ai encore menti ! --- Gilles Legardinier
-28) Je te vois --- Teresa Driscoll
-29) L'ete de nos morts --- Lisa Jackson
-30) La fille dans le retroviseur --- James Mallahan Cain
-31) La nuit des bras casses --- Maurice Gouiran
-32) La priere du maure --- 1
-33) La vallee du saphir --- Jean Ely Chab
-34) La ville des couteaux --- William Bayer
-35) Lazare --- Lars Kepler
-36) Le detective de freud --- Olivier Barde-Cabucon
-37) Le faucon va mourir --- Harry Crews
-38) Le labyrinthe aux olives --- Martha Grimes
-39) Le soleil qui s'eteint --- Robin Cook
-40) Le sourire du diable --- Antonia Hodgson
-41) Le tailleur de pierre --- Camilla Lackberg
-42) Le vampire de la rue des pistoles --- Jean Contrucci
-43) Le visage de l'ennemi --- A-J Finn
-44) Les apparences --- Gillian Flynn
-45) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1
-46) Ma soeur, serial killeuse --- 1
-47) Manhattan freud --- Luc Bossi
-48) Messe noire --- Olivier Barde-Cabucon
-49) Meurtre au ritz --- Michele Barriere
-50) Muraille de lave --- Arnaldur Indridason
-51) Nickel chrome --- Herve Claude
-52) Ombre douce --- 1
-53) On ne meurt pas la bouche pleine --- Odile Bouhier
-54) Orphelins de sang --- Patrick Bard
-55) Pages du serpent --- Jessica Cornwell
-56) Paris blues --- Maurice Attia
-57) Plateau --- Franck Bouysse
-58) Quatre garcons dans la nuit --- Val McDermid
-59) Quatre racines blanches --- Jacques Saussey
-60) Quatre romans noirs --- Tonino Benacquista
-61) Reflets de sang --- Brigitte Aubert
-62) Rien ne se perd --- Cloe Mehdi
-63) Serail killers --- Lakhdar Belaid
-64) Signe suspect --- Patricia Cornwell
-65) Suspect --- Robert Crais
-66) Sympathy for the devil --- Kent Anderson
-67) Tendre comme les pierres --- Philippe Georget
-68) Toutes les vagues de l'ocean --- Victor del Arbol
-69) Tristesse du samourai --- Victor del Arbol
-70) Un monde ideal --- Sylvie Granotier
-71) Une femme entre nous --- Greer Hendricks
-72) Une victime ideale --- Val McDermid
-73) Vent de glace --- Patricia Cornwell
-74) Vent froid --- C. J. Box
-75) Vivants --- Isaac Marion
+5) Au bout de la nuit --- Tess Gerritsen
+6) Bois-brule --- Yoshichi Shimada
+7) Bon anniversaire gabriel ! --- Luiz Alfredo Garcia-Roza
+8) Bretzel blues --- Rita Falk
+9) Casanova et la femme sans visage --- Olivier Barde-Cabucon
+10) Chat qui connaissait un cardinal --- Lilian Jackson Braun
+11) Chat qui deplacait des montagnes --- Lilian Jackson Braun
+12) Chiens de la nuit --- Lilian Jackson Braun
+13) Code 93 --- 1
+14) Comme les lions --- Brian Panowich
+15) Dans la brume electrique avec les morts confederes --- James Lee Burke
+16) Disparue de guingamp --- Yann Venner
+17) Ecorces vives --- Alexandre Lenot
+18) Enquete dans le brouillard --- Elizabeth George
+19) Enquetes de miss lalli --- Kalpana Swaminathan
+20) Entorses au reglement --- Theresa Schwegel
+21) Epouse inconnue --- Yoshichi Shimada
+22) Equation du chat --- Christine Adamo
+23) Ete tous les chats s'ennuient --- Philippe Georget
+24) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
+25) Feu de glace --- Nicci French
+26) Fibre meurtriere --- Kylie Fitzpatrick
+27) Flic dans le petrin --- Theresa Schwegel
+28) Helena --- Jeremy Fel
+29) Hors cadre --- Stefan Ahnhem
+30) Indigo blues --- Robert Crais
+31) Interrogatoire --- Yoshichi Shimada
+32) J'ai encore menti ! --- Gilles Legardinier
+33) Je te vois --- Teresa Driscoll
+34) L'ete de nos morts --- Lisa Jackson
+35) La fille dans le retroviseur --- James Mallahan Cain
+36) La nuit des bras casses --- Maurice Gouiran
+37) La priere du maure --- 1
+38) La promesse de l'ange --- Frederic Lenoir
+39) La vallee du saphir --- Jean Ely Chab
+40) La ville des couteaux --- William Bayer
+41) Lazare --- Lars Kepler
+42) Le carnaval des vampires --- Olivier Barde-Cabucon
+43) Le detective de freud --- Olivier Barde-Cabucon
+44) Le faucon va mourir --- Harry Crews
+45) Le labyrinthe aux olives --- Martha Grimes
+46) Le soleil qui s'eteint --- Robin Cook
+47) Le sourire du diable --- Antonia Hodgson
+48) Le vampire de la rue des pistoles --- Jean Contrucci
+49) Le visage de l'ennemi --- A-J Finn
+50) Les apparences --- Gillian Flynn
+51) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1
+52) Les morsures de l'ombre --- Karine Giebel
+53) Ma soeur, serial killeuse --- 1
+54) Manhattan freud --- Luc Bossi
+55) Messe noire --- Olivier Barde-Cabucon
+56) Meurtre au ritz --- Michele Barriere
+57) Muraille de lave --- Arnaldur Indridason
+58) Nickel chrome --- Herve Claude
+59) Ombre douce --- 1
+60) On ne meurt pas la bouche pleine --- Odile Bouhier
+61) Orphelins de sang --- Patrick Bard
+62) Pages du serpent --- Jessica Cornwell
+63) Paris blues --- Maurice Attia
+64) Plateau --- Franck Bouysse
+65) Quatre garcons dans la nuit --- Val McDermid
+66) Quatre racines blanches --- Jacques Saussey
+67) Quatre romans noirs --- Tonino Benacquista
+68) Reflets de sang --- Brigitte Aubert
+69) Rien ne se perd --- Cloe Mehdi
+70) Serail killers --- Lakhdar Belaid
+71) Signe suspect --- Patricia Cornwell
+72) Suspect --- Robert Crais
+73) Sympathy for the devil --- Kent Anderson
+74) Tailleur de pierre --- Camilla Lackberg
+75) Tendre comme les pierres --- Philippe Georget
+76) Toutes les vagues de l'ocean --- Victor del Arbol
+77) Tristesse du samourai --- Victor del Arbol
+78) Un monde ideal --- Sylvie Granotier
+79) Une femme entre nous --- Greer Hendricks
+80) Une victime ideale --- Val McDermid
+81) Vent de glace --- Patricia Cornwell
+82) Vent froid --- C. J. Box
+83) Vivants --- Isaac Marion
 
