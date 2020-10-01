@@ -1,0 +1,28 @@
+[core]
+	excludesfile = /Users/bfablet/.gitignore_global
+	pager = diff-so-fancy | less --tabs=4 -RFX
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[color]
+	ui = true
+[user]
+	name = sajinsa99
+	email = bfablet@gmail.com
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[color "diff-highlight"]
+	oldNormal = red bold
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold 22
+[color "diff"]
+	meta = 11
+	frag = magenta bold
+	commit = yellow bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse

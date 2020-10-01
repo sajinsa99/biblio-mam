@@ -11,7 +11,7 @@ RUN apk update && apk upgrade
 RUN apk add --no-cache tzdata && cp -vf /usr/share/zoneinfo/CET /etc/localtime && echo CET > /etc/timezone && date && apk del tzdata
 
 #install install minimal tools
-RUN apk add --no-cache bash vim dos2unix tree perl wget curl git openssh shellcheck
+RUN apk add --no-cache bash vim dos2unix tree perl wget curl git openssh shellcheck util-linux
 
 # install prerequistes for perl cpan
 RUN apk add --no-cache make gcc perl-utils
@@ -26,6 +26,12 @@ RUN export PERL_MM_USE_DEFAULT=1 && cd /root && perl -MCPAN -e "CPAN::Shell->not
 # clean install
 RUN cd /root && rm -rvf .cpan && cd /tmp && rm -rvf *
 RUN apk del gcc make && rm -rvf /var/cache/apk/*
+
+RUN apk add --no-cache ncurses less
+RUN cd /opt && git clone https://github.com/so-fancy/diff-so-fancy.git && cd /usr/local/bin/ && ln -s /opt/diff-so-fancy/diff-so-fancy . && ln -s /opt/diff-so-fancy/third_party/diff-highlight/diff-highlight .
+ADD .gitconfig /root/
+ADD .gitignore /root/
+ADD .gitignore_global /root/
 
 # set some custom env
 ADD .alias /root/
@@ -43,6 +49,7 @@ RUN unalias -a ;\
 # execute perl script
 ADD update-list.sh /root/update-list.sh
 RUN chmod 700 /root/update-list.sh
+ENV EDITOR vim
 
 ENTRYPOINT ["/root/update-list.sh"]
 WORKDIR /root
