@@ -11,7 +11,7 @@ RUN apk update && apk upgrade
 RUN apk add --no-cache tzdata && cp -vf /usr/share/zoneinfo/CET /etc/localtime && echo CET > /etc/timezone && date && apk del tzdata
 
 #install install minimal tools
-RUN apk add --no-cache bash vim dos2unix tree perl wget curl git shellcheck
+RUN apk add --no-cache bash vim dos2unix tree perl wget curl git openssh shellcheck
 
 # install prerequistes for perl cpan
 RUN apk add --no-cache make gcc perl-utils
