@@ -47,9 +47,9 @@ foreach my $titre (sort keys %livres) {
 	#next if ($livres{$titre} == 1);
 	my $pret = check_loans($titre);
 	if(defined $pret) {
-		print "$count) $titre --- $livres{$titre} --- $pret\n";
+		print "$titre --- $livres{$titre} --- $pret\n";
 	}  else  {
-		print "$count) $titre --- $livres{$titre}\n";
+		print "$titre --- $livres{$titre}\n";
 	}
 	$count++;
 }

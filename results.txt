@@ -1,91 +1,91 @@
 
-Wed Nov 25 03:17:26 CET 2020
+Wed Nov 25 03:25:57 CET 2020
 
-1) A cote de la plaque --- Marc Behm
-2) Anges brises de somerstown --- Graham Hurley
-3) Angle mort --- Ingrid Astier
-4) Attrapeur de libellules --- Boris Akunin
-5) Au bout de la nuit --- Tess Gerritsen
-6) Bois-brule --- Yoshichi Shimada
-7) Bon anniversaire gabriel ! --- Luiz Alfredo Garcia-Roza
-8) Bretzel blues --- Rita Falk
-9) Casanova et la femme sans visage --- Olivier Barde-Cabucon
-10) Chat qui connaissait un cardinal --- Lilian Jackson Braun
-11) Chat qui deplacait des montagnes --- Lilian Jackson Braun
-12) Chiens de la nuit --- Lilian Jackson Braun
-13) Code 93 --- 1
-14) Comme les lions --- Brian Panowich
-15) Dans la brume electrique avec les morts confederes --- James Lee Burke
-16) Disparue de guingamp --- Yann Venner
-17) Ecorces vives --- Alexandre Lenot
-18) Enquete dans le brouillard --- Elizabeth George
-19) Enquetes de miss lalli --- Kalpana Swaminathan
-20) Entorses au reglement --- Theresa Schwegel
-21) Epouse inconnue --- Yoshichi Shimada
-22) Equation du chat --- Christine Adamo
-23) Ete tous les chats s'ennuient --- Philippe Georget
-24) Fatal dimanche --- Nicci French
-25) Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
-26) Feu de glace --- Nicci French
-27) Fibre meurtriere --- Kylie Fitzpatrick
-28) Flic dans le petrin --- Theresa Schwegel
-29) Helena --- Jeremy Fel
-30) Hors cadre --- Stefan Ahnhem
-31) Indigo blues --- Robert Crais
-32) Interrogatoire --- Yoshichi Shimada
-33) J'ai encore menti ! --- Gilles Legardinier
-34) Je te vois --- Teresa Driscoll
-35) L'ete de nos morts --- Lisa Jackson
-36) La fille dans le retroviseur --- James Mallahan Cain
-37) La nuit des bras casses --- Maurice Gouiran
-38) La priere du maure --- 1
-39) La promesse de l'ange --- Frederic Lenoir
-40) La vallee du saphir --- Jean Ely Chab
-41) La ville des couteaux --- William Bayer
-42) Lazare --- Lars Kepler
-43) Le carnaval des vampires --- Olivier Barde-Cabucon
-44) Le detective de freud --- Olivier Barde-Cabucon
-45) Le faucon va mourir --- Harry Crews
-46) Le labyrinthe aux olives --- Martha Grimes
-47) Le soleil qui s'eteint --- Robin Cook
-48) Le sourire du diable --- Antonia Hodgson
-49) Le vampire de la rue des pistoles --- Jean Contrucci
-50) Le visage de l'ennemi --- A-J Finn
-51) Les apparences --- Gillian Flynn
-52) Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1
-53) Les limbes --- Olivier Bal
-54) Les morsures de l'ombre --- Karine Giebel
-55) Ma soeur, serial killeuse --- 1
-56) Manhattan freud --- Luc Bossi
-57) Messe noire --- Olivier Barde-Cabucon
-58) Meurtre au ritz --- Michele Barriere
-59) Muraille de lave --- Arnaldur Indridason
-60) Nickel chrome --- Herve Claude
-61) Ombre douce --- 1
-62) On ne meurt pas la bouche pleine --- Odile Bouhier
-63) Orphelins de sang --- Patrick Bard
-64) Pages du serpent --- Jessica Cornwell
-65) Paris blues --- Maurice Attia
-66) Plateau --- Franck Bouysse
-67) Prends ma main --- 1
-68) Quatre garcons dans la nuit --- Val McDermid
-69) Quatre racines blanches --- Jacques Saussey
-70) Quatre romans noirs --- Tonino Benacquista
-71) Reflets de sang --- Brigitte Aubert
-72) Rien ne se perd --- Cloe Mehdi
-73) Robicheaux --- James Lee Burke
-74) Serail killers --- Lakhdar Belaid
-75) Signe suspect --- Patricia Cornwell
-76) Suspect --- Robert Crais
-77) Sympathy for the devil --- Kent Anderson
-78) Tailleur de pierre --- Camilla Lackberg
-79) Tendre comme les pierres --- Philippe Georget
-80) Toutes les vagues de l'ocean --- Victor del Arbol
-81) Tristesse du samourai --- Victor del Arbol
-82) Un monde ideal --- Sylvie Granotier
-83) Une femme entre nous --- Greer Hendricks
-84) Une victime ideale --- Val McDermid
-85) Vent de glace --- Patricia Cornwell
-86) Vent froid --- C. J. Box
-87) Vivants --- Isaac Marion
+A cote de la plaque --- Marc Behm
+Anges brises de somerstown --- Graham Hurley
+Angle mort --- Ingrid Astier
+Attrapeur de libellules --- Boris Akunin
+Au bout de la nuit --- Tess Gerritsen
+Bois-brule --- Yoshichi Shimada
+Bon anniversaire gabriel ! --- Luiz Alfredo Garcia-Roza
+Bretzel blues --- Rita Falk
+Casanova et la femme sans visage --- Olivier Barde-Cabucon
+Chat qui connaissait un cardinal --- Lilian Jackson Braun
+Chat qui deplacait des montagnes --- Lilian Jackson Braun
+Chiens de la nuit --- Lilian Jackson Braun
+Code 93 --- 1
+Comme les lions --- Brian Panowich
+Dans la brume electrique avec les morts confederes --- James Lee Burke
+Disparue de guingamp --- Yann Venner
+Ecorces vives --- Alexandre Lenot
+Enquete dans le brouillard --- Elizabeth George
+Enquetes de miss lalli --- Kalpana Swaminathan
+Entorses au reglement --- Theresa Schwegel
+Epouse inconnue --- Yoshichi Shimada
+Equation du chat --- Christine Adamo
+Ete tous les chats s'ennuient --- Philippe Georget
+Fatal dimanche --- Nicci French
+Fenetre a copacabana --- Luiz Alfredo Garcia-Roza
+Feu de glace --- Nicci French
+Fibre meurtriere --- Kylie Fitzpatrick
+Flic dans le petrin --- Theresa Schwegel
+Helena --- Jeremy Fel
+Hors cadre --- Stefan Ahnhem
+Indigo blues --- Robert Crais
+Interrogatoire --- Yoshichi Shimada
+J'ai encore menti ! --- Gilles Legardinier
+Je te vois --- Teresa Driscoll
+L'ete de nos morts --- Lisa Jackson
+La fille dans le retroviseur --- James Mallahan Cain
+La nuit des bras casses --- Maurice Gouiran
+La priere du maure --- 1
+La promesse de l'ange --- Frederic Lenoir
+La vallee du saphir --- Jean Ely Chab
+La ville des couteaux --- William Bayer
+Lazare --- Lars Kepler
+Le carnaval des vampires --- Olivier Barde-Cabucon
+Le detective de freud --- Olivier Barde-Cabucon
+Le faucon va mourir --- Harry Crews
+Le labyrinthe aux olives --- Martha Grimes
+Le soleil qui s'eteint --- Robin Cook
+Le sourire du diable --- Antonia Hodgson
+Le vampire de la rue des pistoles --- Jean Contrucci
+Le visage de l'ennemi --- A-J Finn
+Les apparences --- Gillian Flynn
+Les enquetes de victor legris . t.1. mystere rue des saints-peres --- 1
+Les limbes --- Olivier Bal
+Les morsures de l'ombre --- Karine Giebel
+Ma soeur, serial killeuse --- 1
+Manhattan freud --- Luc Bossi
+Messe noire --- Olivier Barde-Cabucon
+Meurtre au ritz --- Michele Barriere
+Muraille de lave --- Arnaldur Indridason
+Nickel chrome --- Herve Claude
+Ombre douce --- 1
+On ne meurt pas la bouche pleine --- Odile Bouhier
+Orphelins de sang --- Patrick Bard
+Pages du serpent --- Jessica Cornwell
+Paris blues --- Maurice Attia
+Plateau --- Franck Bouysse
+Prends ma main --- 1
+Quatre garcons dans la nuit --- Val McDermid
+Quatre racines blanches --- Jacques Saussey
+Quatre romans noirs --- Tonino Benacquista
+Reflets de sang --- Brigitte Aubert
+Rien ne se perd --- Cloe Mehdi
+Robicheaux --- James Lee Burke
+Serail killers --- Lakhdar Belaid
+Signe suspect --- Patricia Cornwell
+Suspect --- Robert Crais
+Sympathy for the devil --- Kent Anderson
+Tailleur de pierre --- Camilla Lackberg
+Tendre comme les pierres --- Philippe Georget
+Toutes les vagues de l'ocean --- Victor del Arbol
+Tristesse du samourai --- Victor del Arbol
+Un monde ideal --- Sylvie Granotier
+Une femme entre nous --- Greer Hendricks
+Une victime ideale --- Val McDermid
+Vent de glace --- Patricia Cornwell
+Vent froid --- C. J. Box
+Vivants --- Isaac Marion
 
