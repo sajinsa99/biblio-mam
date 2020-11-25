@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-#use diagnostics;
 
 use Text::Unaccent::PurePerl qw(unac_string);
 
