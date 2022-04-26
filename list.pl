@@ -14,22 +14,25 @@ while (<ALL>) {
 	chomp;
 	next unless($_);
 	my $line = unac_string ("utf-8", $_);
+	next unless($line);
 	next if($line =~ /^annee\:/i);
 	next if($line =~ /^Date de pret\:/i);
 	next if($line =~/une sacree mamie/i);
+	next if($line =~ /Shimada/i);
+	next if($line =~ /Enregistrement plus disponible dans la base/i);
 	if($line =~ /^auteur\:\s+(.+?)\,\s+(.+?)\s+\(/i) {
 		$livres{$titre} = "$2 $1";
 		next;
 	}
-	next if($line =~ /Shimada/i);
-	next unless($line);
-	(my $title_raw) = $line =~ /^(.+?)\s+\//i;
+
+	(my $title_raw) = $line =~ /^(.+?)\//i;
 	next unless($title_raw);
 	($title_raw) =~ s-\s+\[.+?$--i;
 	($title_raw) =~ s-\s+\(.+?$--i;
 	($title_raw) =~ s-\s+\:.+?$--i;
 	($title_raw) =~ s-\s+\/.+?$--i;
 	($title_raw) =~ s-\.\s+traduit d.+?$--i;
+	($title_raw) =~ s-\s+$--i;
 	if( defined $title_raw) {
 		$titre =  lc $title_raw;
 		$titre = ucfirst $titre;
