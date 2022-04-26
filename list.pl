@@ -29,6 +29,15 @@ while (<ALL>) {
 		$titre = ucfirst $titre;
 		$livres{$titre} = $auteur;
 		next;
+	}
+	if($line =~ /^(.+?)\/(.+?)$/i) {
+		my $titre = lc $1;
+		my $auteur = $2;
+		($titre) =~ s/\s+\[texte imprime\]\s+//i;
+		($titre) =~ s-\s+$--i;
+		$titre = ucfirst $titre;
+		$livres{$titre} = $auteur;
+		next;
 	}	
 	next;
 }
