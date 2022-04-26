@@ -1,101 +1,62 @@
 
-Tue Apr 26 04:35:47 CEST 2022
+Tue Apr 26 04:57:52 CEST 2022
 
-A cote de la plaque --- Marc Behm
-Angle mort --- Ingrid Astier
-Attrapeur de libellules --- Boris Akunin
-Au bout de la nuit --- Tess Gerritsen
-Bois-brule --- Claude Amoz
-Bon anniversaire gabriel ! --- Luiz Alfredo Garcia-Roza
-Bretzel blues --- Rita Falk
-Casanova et la femme sans visage --- Olivier Barde-Cabucon
-Chat qui connaissait un cardinal --- Lilian Jackson Braun
-Chiens de la nuit --- Kent Anderson
-Code 93 --- 1
-Comme les lions --- Brian Panowich
-Dans la brume electrique avec les morts confederes --- James Lee Burke
-Disparue de guingamp --- 1
-Ecorces vives --- Alexandre Lenot
-Enquete dans le brouillard --- Elizabeth George
-Enquetes de miss lalli --- Kalpana Swaminathan
-Entorses au reglement --- Theresa Schwegel
-Epouse inconnue --- Leif Davidsen
-Equation du chat --- 1
-Fatal dimanche --- Nicci French
-Feu de glace --- Nicci French
-Fibre meurtriere --- 1
-Helena --- Jeremy Fel
-Hors cadre --- Stefan Ahnhem
-Indigo blues --- Robert Crais
-Interrogatoire --- Thomas H. Cook
-J'ai encore menti ! --- Gilles Legardinier
-Je te vois --- Teresa Driscoll
-Jusqu'a ce que mort s'ensuive --- Irene Chauvy
-L'ete de nos morts --- Lisa Jackson
-L'ete tous les chats s'ennuient --- Philippe Georget
-L'ombre douce --- Hoai Huong Nguyen
-La derniere veuve --- Patrick Bauwen
-La ferme aux poupees --- Wojciech Chmielarz
-La fille dans le retroviseur --- James Mallahan Cain
-La muraille de lave --- 1
-La nuit des bras casses --- Maurice Gouiran
-La priere du maure --- 1
-La promesse de l'ange --- Frederic Lenoir
-La tristesse du samourai --- Victor del Arbol
-La vallee du saphir --- Jean Ely Chab
-La ville des couteaux --- William Bayer
-Lazare --- Lars Kepler
-Le carnaval des vampires --- Olivier Barde-Cabucon
-Le chat qui deplacait des montagnes --- Lilian Jackson Braun
-Le chat qui parlait aux fantomes --- Lilian Jackson Braun
-Le detective de freud --- Olivier Barde-Cabucon
-Le faucon va mourir --- Harry Crews
-Le labyrinthe aux olives --- Eduardo Mendoza
-Le soleil qui s'eteint --- Robin Cook
-Le sourire du diable --- Antonia Hodgson
-Le tailleur de pierre --- Camilla Lackberg
-Le vampire de la rue des pistoles --- Jean Contrucci
-Le visage de l'ennemi --- A-J Finn
-Les anges brises de somerstown --- Graham Hurley
-Les apparences --- Gillian Flynn
-Les limbes --- Olivier Bal
-Les morsures de l'ombre --- Karine Giebel
-Les pages du serpent --- Jessica Cornwell
-Lumiere noire --- Lisa Gardner
-Ma soeur, serial killeuse --- 1
-Manhattan freud --- 1
-Messe noire --- Olivier Barde-Cabucon
-Meurtre au cafe de l'arbre-sec --- Michele Barriere
-Meurtre au ritz --- Michele Barriere
-Mystere rue des saint-peres --- Claude Izner
-Nickel chrome --- 1
-On ne meurt pas la bouche pleine --- Odile Bouhier
-Orphelins de sang --- Patrick Bard
-Paris blues --- Maurice Attia
-Plateau --- Franck Bouysse
-Pourquoi est-ce un chef-d'oeuvre ? --- Val Williams
-Prends ma main --- 1
-Quatre garcons dans la nuit --- Val McDermid
-Quatre racines blanches --- Jacques Saussey
-Quatre romans noirs --- Tonino Benacquista
-Reflets de sang --- Brigitte Aubert
-Rien ne se perd --- Cloe Mehdi
-Robert doisneau --- Claude Eveno
-Robicheaux --- James Lee Burke
-Serail killers --- 1
-Signe suspect --- Patricia Cornwell
-Stone island --- 1
-Suspect --- Robert Crais
-Sympathy for the devil --- Kent Anderson
-Tendre comme les pierres --- Philippe Georget
-Toutes les vagues de l'ocean --- Victor del Arbol
-Un monde ideal --- Sylvie Granotier
-Une enquete de richard jury --- Martha Grimes
-Une femme entre nous --- Greer Hendricks
-Une fenetre a copacabana --- Luiz Alfredo Garcia-Roza
-Une flic dans le petrin --- Theresa Schwegel
-Une victime ideale --- Val McDermid
-Vent de glace --- Patricia Cornwell
-Vent froid --- C. J. Box
-Vivants --- Isaac Marion
+A cote de la plaque ---  Marc Behm 
+Attrapeur de libellules (l') ---  Boris Akounine 
+Au bout de la nuit ---  Tess Gerritsen 
+Bon anniversaire gabriel ! : une nouvelle enquete du commissaire espinosa ---  Luiz Alfredo Garcia-Roza 
+Bretzel blues: une enquete du commissaire eberhofer ---  Rita Falk 
+Chat qui connaissait un cardinal (le) : roman ---  Lilian Jackson Braun 
+Chiens de la nuit ---  Kent Anderson 
+Comme les lions ---  Brian Panowich 
+Dans la brume electrique avec les morts confederes ---  James Lee Burke 
+Enquetes de miss lalli (les). saveurs assassines ---  Kalpana Swaminathan 
+Entorses au reglement ---  Theresa Schwegel 
+Epouse inconnue (l') [4 mars 1989, paris] : colloque de lassay, ---  Leif Davidsen 
+Fatal dimanche: tout s'arrete ---  Nicci French 
+Feu de glace ---  Nicci French 
+Fibre meurtriere (une) ---  Kylie Fitzpatrick 
+Hors cadre: roman ---  Stefan Ahnhem 
+Indigo blues ---  Robert Crais 
+Interrogatoire ---  Thomas H. Cook 
+Je te vois ---  Teresa Driscoll 
+L'ete de nos morts ---  Lisa Jackson 
+La derniere veuve ---  Karin Slaughter 
+La ferme aux poupees ---  Wojciech Chmielarz 
+La fille dans le retroviseur ---  Linwood Barclay 
+La muraille de lave: roman ---  Arnaldur Indridason 
+La tristesse du samourai: roman ---  Victor del Arbol 
+La ville des couteaux ---  William Bayer 
+Lazare: roman ---  Lars Kepler 
+Le chat qui deplacait des montagnes ---  Lilian Jackson Braun 
+Le chat qui parlait aux fantomes ---  Lilian Jackson Braun 
+Le faucon va mourir ---  Harry Crews 
+Le labyrinthe aux olives ---  Eduardo Mendoza 
+Le soleil qui s'eteint ---  Robin Cook 
+Le sourire du diable: roman ---  Antonia Hodgson 
+Le tailleur de pierre: roman ---  Camilla Lackberg 
+Le visage de l'ennemi: colloque de lassay, . saveurs assassines ---  Elizabeth George 
+Les anges brises de somerstown ---  Graham Hurley 
+Les apparences ---  Gillian Flynn 
+Les pages du serpent ---  Jessica Cornwell 
+Lumiere noire ---  Lisa Gardner 
+On ne meurt pas la bouche pleine ---  Odile Bouhier 
+Orphelins de sang ---  Patrick Bard 
+Paris blues [serie ] ---  Maurice Attia 
+Pourquoi est-ce un chef-d'oeuvre ? : 80 photographies expliquees ---  Val Williams 
+Prends ma main ---  Megan Abbott 
+Quatre garcons dans la nuit ---  Val McDermid 
+Robicheaux ---  James Lee Burke 
+Signe suspect ---  Patricia Cornwell 
+Suspect ---  Robert Crais 
+Sympathy for the devil ---  Kent Anderson 
+Toutes les vagues de l'ocean ---  Victor del Arbol 
+Une enquete de richard jury [texte imprime]. les cloches de whitechapel ---  Martha Grimes 
+Une femme entre nous ---  Greer Hendricks, Sarah Pekkanen 
+Une fenetre a copacabana: roman ---  Luiz Alfredo Garcia-Roza 
+Une flic dans le petrin: roman ---  Theresa Schwegel 
+Une victime ideale ---  Val McDermid 
+Vent de glace : une enquete de kay scarpetta ---  Patricia Cornwell 
+Vent froid: roman ---  C. J. Box 
+Vivants ---  Isaac Marion 
 
