@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/opt/homebrew/bin/bash
 
 echo
 ./clean-docker-none.sh

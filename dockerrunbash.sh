@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/opt/homebrew/bin/bash
 
 docker_image_tag=$(./docker-get-tag.sh)
 echo "docker image tag = $docker_image_tag"

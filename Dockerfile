@@ -2,7 +2,7 @@ FROM alpine:latest
 
 # install tools
 
-RUN apk update --no-cache --quiet --no-progress && apk upgrade --no-cache --quiet --no-progress && apk add --quiet --no-progress --no-cache bash wget curl tar
+RUN apk update --no-cache --quiet --no-progress && apk upgrade --no-cache --quiet --no-progress && apk add --quiet --no-progress --no-cache bash wget curl tar dos2unix git vim tree rsync which openssl
 
 # set CET timezone
 RUN apk add --quiet --no-progress --no-cache tzdata && cp -vf /usr/share/zoneinfo/CET /etc/localtime && echo CET > /etc/timezone && date && apk del --quiet --no-progress --no-cache tzdata
@@ -50,9 +50,6 @@ RUN rm -f /tmp/*.* ;\
   rm -rf /tmp/* ;\
   rm -rf /var/cache/apk/*
 
-# set CET timezone
-RUN apk add --no-cache tzdata && cp -vf /usr/share/zoneinfo/CET /etc/localtime && echo CET > /etc/timezone && date && apk del tzdata
-
 RUN cd /opt && git clone https://github.com/so-fancy/diff-so-fancy.git && cd /usr/local/bin/ && ln -s /opt/diff-so-fancy/diff-so-fancy . && ln -s /opt/diff-so-fancy/third_party/diff-highlight/diff-highlight .
 ADD .gitconfig /root/
 ADD .gitignore /root/
@@ -75,6 +72,8 @@ RUN unalias -a ;\
 ADD update-list.sh /root/update-list.sh
 RUN chmod 700 /root/update-list.sh
 ENV EDITOR vim
+
+RUN apk add --no-cache openssh shellcheck util-linux ncurses less fd exa ripgrep
 
 ENTRYPOINT ["/root/update-list.sh"]
 WORKDIR /root
