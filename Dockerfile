@@ -2,7 +2,7 @@ FROM alpine:latest
 
 # install tools
 
-RUN apk update --no-cache --quiet --no-progress && apk upgrade --no-cache --quiet --no-progress && apk add --quiet --no-progress --no-cache bash wget curl tar dos2unix git vim tree rsync which openssl
+RUN apk update --no-cache --quiet --no-progress && apk upgrade --no-cache --quiet --no-progress && apk add --quiet --no-progress --no-cache bash wget curl tar dos2unix git vim tree rsync which openssl openssh shellcheck util-linux ncurses less fd exa ripgrep
 
 # set CET timezone
 RUN apk add --quiet --no-progress --no-cache tzdata && cp -vf /usr/share/zoneinfo/CET /etc/localtime && echo CET > /etc/timezone && date && apk del --quiet --no-progress --no-cache tzdata
@@ -72,8 +72,6 @@ RUN unalias -a ;\
 ADD update-list.sh /root/update-list.sh
 RUN chmod 700 /root/update-list.sh
 ENV EDITOR vim
-
-RUN apk add --no-cache openssh shellcheck util-linux ncurses less fd exa ripgrep
 
 ENTRYPOINT ["/root/update-list.sh"]
 WORKDIR /root
