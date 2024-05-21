@@ -17,7 +17,7 @@ RUN apk add --quiet --no-progress --no-cache expat-dev \
 	zlib-dev
 
 # download, compile and install perl, the one coming from alpine distribution, is bugged using diagnostics perl module
-ENV PERL_VERSION=5.36.0 \
+ENV PERL_VERSION=5.38.2 \
 	PERL_MM_USE_DEFAULT=1
 RUN cd /tmp ;\
 	wget --no-proxy --no-check-certificate -nv https://www.cpan.org/src/5.0/perl-$PERL_VERSION.tar.gz ;\
@@ -35,6 +35,7 @@ RUN cd /tmp ;\
 	cpan-outdated -p | cpanm > /tmp/cpan-outdated.log 2>&1
 
 RUN cd /tmp ; cpanm -n Text::Unaccent::PurePerl > /tmp/Text-Unaccent-PurePerl.log 2>&1
+RUN cd /tmp ; cpanm -n Text::CSV > /tmp/Text-CSV.log 2>&1
 
 # remove prerequisites for perl, not needed anymore
 RUN apk del --quiet --no-progress --no-cache expat-dev \
